@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.configControl {
+  width: 100vw;
+  height: 20vh;
+  color: white;
+  background-color: #475569;
+  padding-left: 7%;
+}
+.checkbox-container {
+  margin-bottom: 10px;
+}
+.box {
+  width: 20px;
+  height: 20px;
+}
+.label {
+  font-size: 15px;
+  margin-right: 10px;
+}

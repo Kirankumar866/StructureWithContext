@@ -1,0 +1,12 @@
+.footer-container {
+  width: 80%;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #64748b;
+}
+.footer {
+  align-self: center;
+}
+/* Write your CSS here */

@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.body-container {
+  width: 80%;
+  display: flex;
+  justify-content: flex-start;
+  height: 500px;
+  margin: 30px;
+}
+.bodyleftnav-container {
+  width: 30%;
+  background-color: #64748b;
+  padding: 10px;
+}
+.bodycontent-container {
+  width: 40%;
+  background-color: #f1f5f9;
+  padding: 10px;
+  flex-grow: 1;
+}
+.bodyrightnav-container {
+  width: 30%;
+  background-color: #e2e8f0;
+  padding: 10px;
+  flex-shrink: 0;
+}
+.list-item {
+  padding: 10px;
+  list-style-type: none;
+}
+.box-container {
+  margin-bottom: 10px;
+}
+.box1 {
+  width: 150px;
+  height: 150px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #64748b;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
